@@ -1,0 +1,47 @@
+.img1 {
+height: 400px;
+width: 100%;
+}
+.div1 {
+    border: 2px solid blueviolet;
+    margin-top: 100px;
+    margin-right: 500px;
+    display: inline-block;
+}
+.div2 {
+    border: 2px solid orange;
+    margin-left:900px;
+    display: inline-block;
+}
+.td1 {
+    border:2px solid aqua ;
+}
+.td2 {
+    border:2px solid gold ;}
+.td3 {
+    border:2px solid peachpuff ;
+}
+.td4 {
+    border:2px solid plum ;}
+.td5{
+    border:2px solid gray ;
+}
+.table {
+    margin-top: 50px;
+}
+.li1 {
+    margin-right: 30px;
+    border: 2px solid yellow;
+}
+.li2 {
+    margin-right: 30px;
+    border: 2px solid wheat;
+}
+.li3 {
+    margin-right: 30px;
+    border: 2px solid palevioletred;
+}
+.li4 {
+    margin-right: 30px;
+    border: 2px solid hotpink;
+}
